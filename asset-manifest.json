@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/appointment/static/css/main.0806c700.css",
+    "main.js": "/appointment/static/js/main.658df490.js",
+    "static/js/453.a3c1d153.chunk.js": "/appointment/static/js/453.a3c1d153.chunk.js",
+    "index.html": "/appointment/index.html",
+    "main.0806c700.css.map": "/appointment/static/css/main.0806c700.css.map",
+    "main.658df490.js.map": "/appointment/static/js/main.658df490.js.map",
+    "453.a3c1d153.chunk.js.map": "/appointment/static/js/453.a3c1d153.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0806c700.css",
+    "static/js/main.658df490.js"
+  ]
+}
